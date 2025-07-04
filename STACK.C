@@ -1,9 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
-
 void main()
 {
-
 int a[10],x,ch,val,top;
 top=-1;
 printf("\n\n\t********STACK OPERATION****");
